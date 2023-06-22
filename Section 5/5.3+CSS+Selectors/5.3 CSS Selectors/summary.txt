@@ -1,0 +1,30 @@
+CLASSES (.)
+    HTML
+        <p class="note"> element </p>
+    CSS FILe
+        .notes{
+            font-size: 20px
+        }
+
+
+ID SELECTOR (#)
+    HTML 
+        <li class="note" id="id-selector-demo" value="3"> element </li>
+    CSS FILe
+        #id-selector-demo{
+            color:green
+        }
+
+ATTRIBUTE SELECTOR (element[attribute]{ css code})
+    HTML
+        <li class="note" value="4"> element </li>
+    CSS FILE 
+        li[value ="4"]{
+            color:blue
+        }
+
+SELECT ALL ATTRIBUTE (*)
+    CSS FILE
+        *{
+            text-align: center
+        }
