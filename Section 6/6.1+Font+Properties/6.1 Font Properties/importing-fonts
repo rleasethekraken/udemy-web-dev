@@ -1,0 +1,4 @@
+1. fonts.google.com
+2. select a font
+3. copy the <link> to the <head>
+4. copy the CSS rules to the tag in <style>
