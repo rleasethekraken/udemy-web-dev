@@ -1,3 +1,3 @@
 # udemy-web-dev
 
-https://rleasethekraken.github.io/udemy-web-dev-projects/
+https://rleasethekraken.github.io/udemy-web-dev/
